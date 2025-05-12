@@ -60,7 +60,10 @@ Se trabaja con el archivo `Conjunto de datos (Adquisición de vehículos).xlsx` 
 - Creación de medidas DAX y dashboards interactivos en Power BI
 
 ---
+###⚠️ Notas importantes
+Los archivos .xlsx y .pbix deben descargarse para poder visualizarse correctamente. GitHub no ofrece vista previa para estos formatos, por lo que verás el mensaje "Ver en bruto" al intentar abrirlos desde el navegador.
 
+---
 ## 👤 Autor  
 **Esteban Miller**  
 Proyecto desarrollado como parte de mi formación en análisis de datos, aplicando herramientas de Python y Power BI.
